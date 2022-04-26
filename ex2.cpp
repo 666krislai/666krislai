@@ -4,10 +4,8 @@ using namespace std;
 
 int main()
 {
-    printf("Hello World ");
-    
-    cout <<  "hello Krislai ";
-    cout <<  "my height is " << 1 << "m " << 74 << "cm";
+    printf("Hello World\n ");
+    printf(" my height is %d m %d cm \n",1,80);
 
     return 0;
 }
