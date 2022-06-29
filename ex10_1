@@ -24,5 +24,6 @@ int main(){
     tmp = f2(g2);
     printf(" f2(g2) = %d \n",tmp);
     printf("  %d \n",f2(tmp));
-    return 0;
+
+return 0;
 }
